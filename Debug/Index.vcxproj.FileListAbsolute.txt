@@ -1,0 +1,4 @@
+D:\vs\Index\Debug\Index.vcxproj.AssemblyReference.cache
+D:\vs\Index\Debug\Index.MyForm.resources
+D:\vs\Index\Debug\Index.vcxproj.GenerateResource.cache
+D:\vs\Index\Debug\Index.exe
